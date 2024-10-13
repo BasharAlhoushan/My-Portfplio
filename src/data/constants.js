@@ -407,26 +407,26 @@ export const education = [
 ];
 
 export const projects = [
-  {
-    id: 11,
-    title: "InklyReads",
-    date: "Jan 2024 - Dec 2023",
-    description:
-      "A Rule Builder application “Decision Hub” that empowers Business Analysts to create, save, and visualize decision strategies. Provide a no-code rule writing experience and visual representation to test these rules in real-time and observe the calculations at each step.",
-    image:
-      "https://github.com/rishavchanda/DecisionHub/raw/master/assets/testRule.jpg",
-    tags: [
-      "Html",
-      "Css",
-      "Java Script",
-      "Json Server",
-      "BootStrap",
-      "Figma",
-    ],
-    category: "web app",
-    github: "https://inklyreads-bashar-alhoushans-projects.vercel.app/",
-    webapp: "https://inklyreads-bashar-alhoushans-projects.vercel.app/",
-  },
+  // {
+  //   id: 11,
+  //   title: "InklyReads",
+  //   date: "Jan 2024 - Dec 2023",
+  //   description:
+  //     "A Rule Builder application “Decision Hub” that empowers Business Analysts to create, save, and visualize decision strategies. Provide a no-code rule writing experience and visual representation to test these rules in real-time and observe the calculations at each step.",
+  //   image:
+  //     "https://github.com/rishavchanda/DecisionHub/raw/master/assets/testRule.jpg",
+  //   tags: [
+  //     "Html",
+  //     "Css",
+  //     "Java Script",
+  //     "Json Server",
+  //     "BootStrap",
+  //     "Figma",
+  //   ],
+  //   category: "web app",
+  //   github: "https://inklyreads-bashar-alhoushans-projects.vercel.app/",
+  //   webapp: "https://inklyreads-bashar-alhoushans-projects.vercel.app/",
+  // },
   {
     id: 9,
     title: "Trackify",
