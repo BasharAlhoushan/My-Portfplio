@@ -424,7 +424,7 @@ export const projects = [
       "Figma",
     ],
     category: "web app",
-    github: "https://github.com/InklyReads/InklyReads",
+    github: "https://inklyreads-bashar-alhoushans-projects.vercel.app/",
     webapp: "https://inklyreads-bashar-alhoushans-projects.vercel.app/",
   },
   {
