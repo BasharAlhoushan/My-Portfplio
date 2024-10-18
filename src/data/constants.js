@@ -434,7 +434,7 @@ export const projects = [
     description:
       "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
     image:
-      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+      "https://github.com/BasharAlhoushan/InklyReads-Book/blob/main/assets/image/christian-wiediger-INEpZ_RSQYM-unsplash.jpg?raw=true",
     tags: [
       "Docker",
       "AWS",
@@ -448,7 +448,7 @@ export const projects = [
       "Express Js",
       "Redux",
     ],
-    category: "web app",
+    category: "ALL",
     github: "https://github.com/rishavchanda/Trackify",
     webapp: "https://trackify-management.netlify.app/",
   },
