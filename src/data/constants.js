@@ -379,54 +379,26 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
-    school: "Kalinga Institute of Industrial Technology, Bhubaneswar",
-    date: "Oct 2021 - Sep 2025",
-    grade: "8.41 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Kalinga Institute of Industrial Technology, Bhubaneswar. I have completed 4 semesters and have a CGPA of 8.71. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at KIIT, where I am learning and working on exciting projects with a team of talented developers.",
-    degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShrPrA_QiUS3HRPOjQX-Hu-dIORCfJeNXa5g&s",
+    school: "Luminus Technical University College",
+    date: "Oct 2020 - June 2023",
+    grade: "80 CGPA",
+    desc: "Pearson BETC Level 5 Higher National Diploma in Computing(Software Engineering) With Grade Merit.",
+    degree: "Pearson BETC Level 5 Higher National Diploma in Software Engineering ",
   },
   {
     id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
-    school: "Methodist School, Dankuni",
-    date: "Apr 2019 - Apr 2025",
-    grade: "88.2%",
-    desc: "I completed my class 12 high school education at Methodist School, Dankuni, where I studied Science with Computer Science.",
-    degree: "ISC(XII), Science with Computer",
+    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orange_logo.svg/640px-Orange_logo.svg.png",
+    school: "Orange Coding Academy in Jordan",
+    date: "Sep 2023 - Dec 2024",
+    desc: "Intern at Coding Academy by Orange from September 2023 to December 2023 (4months). Participated in an intensive Front-end Web Development course  collaboration with Simplon.co and Princess Sumaya University for Technology (PSUT)from September 2023 to December 2023",
+    degree: "Certifacate Of Traning Web & Mobile Web Development Bootcamp - Front-End Track",
   },
-  {
-    id: 2,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
-    school: "Methodist School, Dankuni",
-    date: "Apr 2017 - Apr 2019",
-    grade: "92.3%",
-    desc: "I completed my class 10 education at Methodist School, Dankuni, where I studied Science with Computer Application.",
-    degree: "ICSC(X), Science with Computer",
-  },
+
 ];
 
 export const projects = [
-  // {
-  //   id: 11,
-  //   title: "InklyReads",
-  //   date: "Jan 2024 - Dec 2023",
-  //   description:
-  //     "A Rule Builder application “Decision Hub” that empowers Business Analysts to create, save, and visualize decision strategies. Provide a no-code rule writing experience and visual representation to test these rules in real-time and observe the calculations at each step.",
-  //   image:
-  //     "https://github.com/rishavchanda/DecisionHub/raw/master/assets/testRule.jpg",
-  //   tags: [
-  //     "Html",
-  //     "Css",
-  //     "Java Script",
-  //     "Json Server",
-  //     "BootStrap",
-  //     "Figma",
-  //   ],
-  //   category: "web app",
-  //   github: "https://inklyreads-bashar-alhoushans-projects.vercel.app/",
-  //   webapp: "https://inklyreads-bashar-alhoushans-projects.vercel.app/",
-  // },
+ 
   {
     id: 9,
     title: "InklyReads",
@@ -436,21 +408,17 @@ export const projects = [
     image:
       "https://github.com/BasharAlhoushan/InklyReads-Book/blob/main/assets/image/Screenshot%20(71).png?raw=true",
     tags: [
-      "Docker",
-      "AWS",
-      "DuckDNS",
-      "Eslint",
-      "Husky",
-      "CI/CD",
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
+      
+      "Html",
+      "Css",
+      "Java Script",
+      "Json Server",
+      "Figma",
+     
     ],
     category: "ALL",
-    github: "https://inkly-reads-book.vercel.app/",
-    webapp: "https://inkly-reads-book.vercel.app/",
+    github: "https://github.com/BasharAlhoushan/InklyReads-Book.git",
+    webapp: "https://github.com/BasharAlhoushan/InklyReads-Book.git",
   },
   // {
   //   id: 0,
