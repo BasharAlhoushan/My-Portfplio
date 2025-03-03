@@ -1,0 +1,75 @@
+# Query: Rishav
+# ContextLines: 1
+
+25 results - 1 file
+
+src\data\constants.js:
+   14    linkedin: "https://www.linkedin.com/in/bashar-alhuoshan-010277290/",
+   15:   // twitter: "https://twitter.com/B",
+   16    insta: "https://www.instagram.com/bshr.hwshn/profilecard/?igsh=bW94cWk0YXM1NjB5",
+
+  432    //   category: "web app",
+  433:   //   github: "https://github.com/rishavchanda/Podstream",
+  434    //   webapp: "https://podstream.netlify.app/",
+
+  436    //     {
+  437:   //       name: "Rishav Chanda",
+  438    //       img: "https://avatars.githubusercontent.com/u/64485885?v=4",
+  439:   //       linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+  440:   //       github: "https://github.com/rishavchanda/",
+  441    //     },
+
+  466    //   category: "web app",
+  467:   //   github: "https://github.com/rishavchanda/Project-Management-App",
+  468    //   webapp: "https://vexa-app.netlify.app/",
+
+  476    //   image:
+  477:   //     "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
+  478    //   tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
+  479    //   category: "machine learning",
+  480:   //   github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
+  481    //   webapp: "https://brain-tumor.netlify.app/",
+
+  483    //     {
+  484:   //       name: "Rishav Chanda",
+  485    //       img: "https://avatars.githubusercontent.com/u/64485885?v=4",
+  486:   //       linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+  487:   //       github: "https://github.com/rishavchanda/",
+  488    //     },
+
+  506    //   category: "android app",
+  507:   //   github: "https://github.com/rishavchanda/Buckoid-Android-App",
+  508:   //   webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
+  509    // },
+
+  519    //   category: "android app",
+  520:   //   github: "https://github.com/rishavchanda/Job-finder-App",
+  521:   //   webapp: "https://github.com/rishavchanda/Job-finder-App",
+  522    // },
+
+  529    //   image:
+  530:   //     "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
+  531    //   tags: ["React Js", "Firebase", "Firestore", "Node JS"],
+  532    //   category: "web app",
+  533:   //   github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
+  534:   //   webapp: "https://whatsapp-clone-rishav.web.app",
+  535    // },
+
+  545    //   category: "web app",
+  546:   //   github: "https://github.com/rishavchanda/Todo-Web-App",
+  547:   //   webapp: "https://rishav-react-todo.netlify.app/",
+  548    // },
+
+  558    //   category: "web app",
+  559:   //   github: "https://github.com/rishavchanda/Breaking-Bad",
+  560    //   webapp: "https://breaking-bad-webapp.netlify.app",
+
+  571    //   category: "android app",
+  572:   //   github: "https://github.com/rishavchanda/Quiz-Earn",
+  573:   //   webapp: "https://github.com/rishavchanda/Quiz-Earn",
+  574    // },
+
+  584    //   category: "machine learning",
+  585:   //   github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+  586:   //   webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+  587    // },

@@ -135,6 +135,25 @@ export const experiences = [
     ],
     doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1696514649120.jpeg?alt=media&token=e7f6757b-edfa-4138-a692-d6709eeef3e2",
   },
+
+  {
+    id: 2,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEgiRiphp_QeVQc4V_ST2ha6voBfRQJAdc_g&s",
+    role: "Front-end Web Development Intern",
+    company: "softylus",
+    date: "Feb 2025 ",
+    desc: "Built Flipr Connect Platforms using React Js integrated GraphQL with AXIOS, .",
+    skills: [
+      "Figma",
+      "CSS",
+      "JavaScript",
+      "Html",
+      " React Js",
+      " Talwind CSS",
+      " Wordpress",
+    ],
+    doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1696514649120.jpeg?alt=media&token=e7f6757b-edfa-4138-a692-d6709eeef3e2",
+  },
  
 ];
 
